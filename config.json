@@ -3,7 +3,7 @@
   "triggers_inr_per_gram": {
     "XAU": {},
     "XAG": {
-      "default": 200.0
+      "default": 300.0
     }
   }
 }
